@@ -1,5 +1,28 @@
-venv/
+# Python
 __pycache__/
-.ipynb_checkpoints/
-*.db
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Power BI Auto Recovery
+*.pbix.autorecover
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
